@@ -13,8 +13,9 @@ export const FooterContainer = styled.div`
 `
 
 export const LogoWrapper = styled.div`
-    width:140px;
-    height:50px;
+    width:60px;
+    height:60px;
+
 
     img{
         width:100%;
@@ -25,11 +26,12 @@ export const LogoWrapper = styled.div`
 `
 
 export const TextWrapper = styled.div`
-    width:280px;
+    width:290px;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
+    margin-top:5px;
   
 
     .copy-nameBusiness{
@@ -37,13 +39,13 @@ export const TextWrapper = styled.div`
         justify-content: space-between;
         align-items: center;
         width: 100%;
-        padding:0 2.3rem;
+        padding:0 1rem;
 
     }
 
     span{
         font-family: ${({theme}) => theme.fonts.font_primary};
-        font-size:16px;
+        font-size:14px;
         font-weight:200;
         
     }

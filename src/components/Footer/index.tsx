@@ -15,14 +15,14 @@ const Footer = () => {
         <TextWrapper>
             <div className="copy-nameBusiness">
             <span> © 2023</span>
-            <span> Imobiliaria Optimus</span>
+            <span> Lindomar Nogueira - Corretor</span>
             </div>
-            <span>CRECI 27645</span>
+            <span>CRECI 22278</span>
         </TextWrapper>
         <SocialWrapper>
-             <a href="#" ><FaFacebookF className="icon-social-footer"/></a>
-             <a href="#"><SlSocialInstagram className="icon-social-footer"/></a>
-             <a href="#"> <MdWhatsapp className="icon-social-footer"/></a>
+             <a href="https://www.facebook.com/profile.php?id=100087584213048" ><FaFacebookF className="icon-social-footer"/></a>
+             <a href="https://www.instagram.com/lindomar_corretor_imoveis_/"><SlSocialInstagram className="icon-social-footer"/></a>
+             <a href="https://wa.me/558599996895?text=lindomarcorretordeimoveis"> <MdWhatsapp className="icon-social-footer"/></a>
         </SocialWrapper>
        </FooterContainer>
     )

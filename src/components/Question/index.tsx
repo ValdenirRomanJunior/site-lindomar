@@ -34,7 +34,7 @@ const Question = () => {
             <h3 className="subtitle-modal-link-question">1. INFORMAÇÕES QUE COLETAMOS</h3>
             <p className="text-modal-link-question">Não custa lembrar, prezamos muito pela sua privacidade. 
                 Por isso, todos os dados e informações sobre você são tratadas como confidenciais, 
-                e somente as usaremos para os fins aqui descritos e autorizados por você, principalmente para que você possa utilizar a Optimus de forma plena,
+                e somente as usaremos para os fins aqui descritos e autorizados por você, principalmente para que você possa utilizar nosso site de forma plena,
                 visando sempre melhorar a sua experiência como usuário.</p>
 
                 <h3  className="subtitle-modal-link-question">2. O que você deve saber em relação ao nosso site</h3>

@@ -64,7 +64,7 @@ const Header = ({onChange}:Prop) =>{
                 <MenuLogoWrapper>
                 <TelephoneSideBarWrapper>
                     <BsTelephone className='telephone-icon-header'/>
-                   <span>(85) 9823-54436</span>
+                   <span>(85) 9999-6895</span>
                 </TelephoneSideBarWrapper>
                 <Hambuguer onClick={showSidebar}>
                     <span></span>
@@ -95,7 +95,7 @@ const Header = ({onChange}:Prop) =>{
          
        
             <PhoneWrapper >
-            <a href='#'><MdWhatsapp className='whatsapp-icon-sidebar'/><p className='description-icon'>(85) 9823-54436</p></a>
+            <a href='https://wa.me/558599996895?text=lindomarcorretordeimoveis'><MdWhatsapp className='whatsapp-icon-sidebar'/><p className='description-icon'>(85) 9999-6895</p></a>
             </PhoneWrapper>  
          
 

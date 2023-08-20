@@ -22,21 +22,21 @@ const About = () => {
              <BsPlus className="icon-plus-question"/>
             </QuestionWrapper>
             <AnswerWrapper open={openAnswer} onClick={handleOpenModalLink}>
-                <h2>Ajudamos você a encontrar o seu lar em Fortaleza e região!</h2>
-                <p>Atuante no ramo imobiliário há mais de 10 anos, somos uma empresa
-                   especializada na locação e venda de imóveis em Fortaleza e região,
+                <h2>Ajudamos você a encontrar o seu lar em Caucaia e região!</h2>
+                <p>Atuante no ramo imobiliário há alguns anos, somos uma empresa
+                   especializada na locação e venda de imóveis em Caucaia e região,
                    100% dedicados à credibilidade e transparência. Com alto rigor profissional, 
                    contamos com colaboradores competentes e qualificados para melhor atendê-los.
                    Levamos aos nossos clientes toda
                    praticidade para organizar e agilizar todos os processos imobiliários.
-                   Todas as nossas visitas são acompanhadas por um de nossos consultores,
+                   Todas as nossas visitas são acompanhadas, 
                    trazendo assim segurança do início ao fim, tanto no aluguel, quanto na venda.</p>
 
                    <span>contato@optimus.com.br</span>
                    <span>Avenida Sul, 50, Passaré</span>
                
-                   <span>Fortaleza - CE</span>
-                   <span>(85) 9823-54436</span>
+                   <span>Caucaia - CE</span>
+                   <span>(85) 9999-6895</span>
             </AnswerWrapper>
    
            
