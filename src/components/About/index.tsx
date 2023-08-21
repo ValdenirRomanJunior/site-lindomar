@@ -32,8 +32,8 @@ const About = () => {
                    Todas as nossas visitas são acompanhadas, 
                    trazendo assim segurança do início ao fim, tanto no aluguel, quanto na venda.</p>
 
-                   <span>contato@optimus.com.br</span>
-                   <span>Avenida Sul, 50, Passaré</span>
+                   <span>lindomarnogueiracorretor@gmail.com</span>
+                   <span>Rua Ananias Alexandre 147, Mestre Antônio</span>
                
                    <span>Caucaia - CE</span>
                    <span>(85) 9999-6895</span>
