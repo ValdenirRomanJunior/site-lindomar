@@ -268,7 +268,7 @@ const handleKeyUp = (e: React.FormEvent<HTMLInputElement | any>) =>{
                                 <div className='diviser'></div>
                                 <div className='detail-wrapper'>
                                 <span className='detail-value'>{property?.numberRooms}</span>
-                                <span className='detail-title'>Quantos</span>
+                                <span className='detail-title'>Quartos</span>
                                 </div>
                                 <div className='diviser'></div>
                                 <div className='detail-wrapper'>
